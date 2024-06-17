@@ -1,0 +1,30 @@
+##  Actores:
+1. [Blog Administrator](#introduction)  
+2. [Author](#paragraph1)
+3. [Registered User](#paragraph2)  
+4. [Anonymous User](#paragraph3)  Usuario Anónimo
+
+##  Casos de Uso:
+1. [Blog administrator](#introduction) 
+    1. [CU-1.-Show article](#subparagraph1)  
+    2. [CU-2.-Create article](#subparagraph2)  
+    3. [CU-3.-Modify article](#subparagraph3)  
+    4. [CU-4.-Delete article](#subparagraph4)  
+    5. [CU-5.-Aprobate comment](#subparagraph5)  
+    6. [CU-6.-Delete comment](#subparagraph6)  
+    7. [CU-7.-Manage Users](#subparagraph7)  
+2. [Author](#paragraph1)
+    1. [CU-8.-Show article](#subparagraph1) 
+    2. [CU-9.-Create article](#subparagraph2)  
+    3. [CU-10.-Modify article](#subparagraph3)  
+    4. [CU-11.-Respond Comment](#subparagraph4)  
+3. [Registered User](#paragraph2) 
+    1. [CU-12.-Show article](#subparagraph1) 
+    2. [CU-13.-Comment article](#subparagraph2)  
+    3. [CU-14.-Modify Profile](#subparagraph3)  
+4. [Anonymous User](#paragraph3) 
+    1. [CU-15.-Show article](#subparagraph1) 
+    2. [CU-16.-Find article](#subparagraph2)  
+    3. [CU-17.-Share article](#subparagraph3) 
+
+![alt text](<Screenshot from 2024-06-17 04-02-27.png>)
